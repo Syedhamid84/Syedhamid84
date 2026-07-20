@@ -13,19 +13,24 @@
 
 ### 🌐 Socials:
 
-- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/syed-hamid-ali-498180184/" target="_blank">SyedHamidAli/linkedin.com</a>
-- 📧 **Email:** <a href="mailto:syedhamidali84@gmail.com" target="_blank">syedhamidali84@gmail.com</a>
-- 🌐 **Portfolio:** <a href="https://syedhamid-portfolio.vercel.app/" target="_blank">SyedHamidAli.dev</a>
+[<img src="https://shields.io" />](https://linkedin.com)
+[<img src="https://shields.io" />](mailto:syedhamidali84@gmail.com)
+[<img src="https://shields.io" />](https://vercel.app)
 
 ---
 
 ### 💻 Tech Stack:
 
-| 🚀 Core Languages | ⚛️ Frameworks & State | 🎨 Styling & UI | 🔧 Tools & Workflow |
-| :--- | :--- | :--- | :--- |
-| 🟨 **JavaScript (ES6+)** | 🟦 **React.js** | 🟩 **Tailwind CSS** | 📦 **NPM** |
-| 🟦 **TypeScript** | ⬛ **Next.js** | 🟪 **Material UI (MUI)** | ⚡ **Vite** |
-| 🟧 **HTML5** | 🟪 **Redux Toolkit** | 🟥 **Sass / SCSS** | 🎨 **Figma** |
-| 🟦 **CSS3** | | | 🧡 **Git & GitHub** |
+#### 🚀 Core Development
+<img src="https://jsdelivr.net" alt="javascript" width="40" height="40" style="margin-right: 10px;" /> <img src="https://jsdelivr.net" alt="typescript" width="40" height="40" style="margin-right: 10px;" /> <img src="https://jsdelivr.net" alt="html5" width="40" height="40" style="margin-right: 10px;" /> <img src="https://jsdelivr.net" alt="css3" width="40" height="40" style="margin-right: 10px;" /> <img src="https://jsdelivr.net" alt="sass" width="40" height="40" style="margin-right: 10px;" />
+
+#### ⚛️ Frameworks & State Management
+<img src="https://jsdelivr.net" alt="react" width="40" height="40" style="margin-right: 10px;" /> <img src="https://jsdelivr.net" alt="nextjs" width="40" height="40" style="margin-right: 10px; background: white; border-radius: 50%;" /> <img src="https://jsdelivr.net" alt="redux" width="40" height="40" style="margin-right: 10px;" />
+
+#### 🎨 Styling & UI Libraries
+<img src="https://jsdelivr.net" alt="tailwind" width="40" height="40" style="margin-right: 10px;" /> <img src="https://jsdelivr.net" alt="mui" width="40" height="40" style="margin-right: 10px;" />
+
+#### 🔧 Tools & Workflow
+<img src="https://jsdelivr.net" alt="npm" width="40" height="40" style="margin-right: 10px;" /> <img src="https://jsdelivr.net" alt="vite" width="40" height="40" style="margin-right: 10px;" /> <img src="https://jsdelivr.net" alt="figma" width="40" height="40" style="margin-right: 10px;" /> <img src="https://jsdelivr.net" alt="git" width="40" height="40" style="margin-right: 10px;" /> <img src="https://jsdelivr.net" alt="github" width="40" height="40" style="margin-right: 10px; background: white; border-radius: 50%;" />
 
 ---
