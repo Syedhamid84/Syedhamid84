@@ -13,9 +13,9 @@
 
 ### 🌐 Socials:
 
-- 💼 **LinkedIn:** [SyedHamidAli/linkedin.com](https://www.linkedin.com/in/syed-hamid-ali-498180184/)
-- 📧 **Email:** [syedhamidali84@gmail.com](mailto:syedhamidali84@gmail.com)
-- 🌐 **Portfolio:** [SyedHamidAli.dev](https://syedhamid-portfolio.vercel.app/)
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/syed-hamid-ali-498180184/" target="_blank">SyedHamidAli/linkedin.com</a>
+- 📧 **Email:** <a href="mailto:syedhamidali84@gmail.com" target="_blank">syedhamidali84@gmail.com</a>
+- 🌐 **Portfolio:** <a href="https://syedhamid-portfolio.vercel.app/" target="_blank">SyedHamidAli.dev</a>
 
 ---
 
