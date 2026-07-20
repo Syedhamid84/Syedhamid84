@@ -13,28 +13,19 @@
 
 ### 🌐 Socials:
 
-![LinkedIn](https://shields.io)
-![Email](https://shields.io)
-![Portfolio](https://shields.io)
+- 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/syed-hamid-ali-498180184/)
+- 📧 **Email:** [syedhamidali84@gmail.com](mailto:syedhamidali84@gmail.com)
+- 🌐 **Portfolio:** [yourportfolio.com](https://syedhamid-portfolio.vercel.app/)
 
 ---
 
 ### 💻 Tech Stack:
 
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![Sass](https://shields.io)
-![React](https://shields.io)
-![Next.js](https://shields.io)
-![Redux](https://shields.io)
-![TailwindCSS](https://shields.io)
-![MUI](https://shields.io)
-![NPM](https://shields.io)
-![Vite](https://shields.io)
-![Figma](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+| 🚀 Core Languages | ⚛️ Frameworks & State | 🎨 Styling & UI | 🔧 Tools & Workflow |
+| :--- | :--- | :--- | :--- |
+| 🟨 **JavaScript (ES6+)** | 🟦 **React.js** | 🟩 **Tailwind CSS** | 📦 **NPM** |
+| 🟦 **TypeScript** | ⬛ **Next.js** | 🟪 **Material UI (MUI)** | ⚡ **Vite** |
+| 🟧 **HTML5** | 🟪 **Redux Toolkit** | 🟥 **Sass / SCSS** | 🎨 **Figma** |
+| 🟦 **CSS3** | | | 🧡 **Git & GitHub** |
 
 ---
