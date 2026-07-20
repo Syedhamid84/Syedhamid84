@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Syed Hamid Ali</h1>
 
 <p align="center">
   <strong>A passionate Frontend Engineer with 3 years of professional experience, specializing in high-performance web applications</strong>
@@ -8,15 +8,15 @@
 
 - 💻 I'm currently working as a **Frontend Engineer** focusing on modern web architecture.
 - 💬 Ask me about **React, JavaScript, Next.js, and Responsive Web Design**.
-- 📫 How to reach me: **[your.email@example.com]**
+- 📫 How to reach me: **[syedhamidali84@gmail.com]**
 - ⚡ Fun fact: I love building pixel-perfect UIs that combine exceptional design with blazing-fast performance.
 
 ### 🌐 Socials:
 
 <p align="left">
-<a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL@example.com" target="_blank"><img src="https://shields.io" alt="Email" /></a>
-<a href="https://YOUR_PORTFOLIO_URL" target="_blank"><img src="https://shields.io" alt="Portfolio" /></a>
+<a href="https://linkedin.com" target="_blank"><img src="https://www.linkedin.com/in/syed-hamid-ali-498180184/" alt="LinkedIn" /></a>
+<a href="mailto:YOUR_EMAIL@example.com" target="_blank"><img src="syedhamidali84@gmail.com" alt="Email" /></a>
+<a href="https://YOUR_PORTFOLIO_URL" target="_blank"><img src="https://syedhamid-portfolio.vercel.app/" alt="Portfolio" /></a>
 </p>
 
 ---
