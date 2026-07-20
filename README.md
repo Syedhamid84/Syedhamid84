@@ -13,9 +13,9 @@
 
 ### 🌐 Socials:
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/syed-hamid-ali-498180184/)
-[![Email](https://shields.io)](mailto:syedhamidali84@gmail.com)
-[![Portfolio](https://shields.io)](https://syedhamid-portfolio.vercel.app/)
+![LinkedIn](https://shields.io)
+![Email](https://shields.io)
+![Portfolio](https://shields.io)
 
 ---
 
