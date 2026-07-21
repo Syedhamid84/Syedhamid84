@@ -15,7 +15,7 @@
 
 - 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/syed-hamid-ali-498180184/)
 - 📧 **Email:** [syedhamidali84@gmail.com](mailto:syedhamidali84@gmail.com)
-- 🌐 **Portfolio:** [yourportfolio.com](https://syedhamid-portfolio.vercel.app/)
+- 🌐 **Portfolio:** [SyedHamidAli.dev](https://syedhamid-portfolio.vercel.app/)
 
 ---
 
